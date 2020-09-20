@@ -20,7 +20,7 @@
   * I take full responsibility for my work, and I'm not afraid that if it doesn't work, I'll try again and I'll definitely succeed));
   * I don't gossip.
 * Work experience:
-I have never worked in the field of information technology, but I was fond of web page layout. I am an energy engineer by training. At the moment, I work as a foreman in a small production boiler room (January 2017 to the moment). 7 people work under my leadership.
+  * I have never worked in the field of information technology, but I was fond of web page layout. I am an energy engineer by training. At the moment, I work as a foreman in a    small production boiler room (January 2017 to the moment). 7 people work under my leadership.
 ## Skills:
   * HTML5;
   * CSS3;

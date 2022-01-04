@@ -29,6 +29,7 @@
   * Development tool: VS-code, Figma, Photoshop.
   ## Code example:
   * Calculate the sum of all even numbers occurring in the row from 1 to n (inclusive), passed to the function (variable "a"). Sample Input: 3
+        ```
         function testWhile(a) {
             var x=0;
             let b=0;
@@ -40,6 +41,7 @@
             }
             return x;
         }
+        ```
 ## Experience in it:
   * RS School education and own small projects.
 ## Education:

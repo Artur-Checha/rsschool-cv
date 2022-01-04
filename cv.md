@@ -29,32 +29,29 @@
   ---
 
 ### Skills:
-- HTML5;
-- CSS3 (SASS/SCSS);
+- HTML5, CSS3 (SASS/SCSS);
 - JavaScript Basics;
-- BEM;
 - Git, Github;
-- Development tool: VS-code, Figma, Photoshop.
+- Development tools: VS-code, Figma, Photoshop.
 
   ---
 
 ### Code example:
-  * Calculate the sum of all even numbers occurring in the row from 1 to n (inclusive), passed to the function (variable "a"). Sample Input: 3
+  * Calculate the sum of all even numbers occurring in the row from 1 to n (inclusive), passed to the function (variable "a").<br> Sample Input: 3
 
-        ```javascript
-        function testWhile(a) {
-            var x=0;
-            let b=0;
-            while (b<=a) {
-                if (b%2==0) {
-                    x=x+b;
-                }
-            b=b+1;
-            }
-            return x;
+```javascript
+function testWhile(a) {
+    var x=0;
+    let b=0;
+    while (b<=a) {
+        if (b%2==0) {
+            x=x+b;
         }
-        ```
-
+        b=b+1;
+    }
+    return x;
+}
+```
 ---
 
 ### Experience in it:

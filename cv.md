@@ -19,18 +19,7 @@
   * I take full responsibility for my work, and I'm not afraid that if it doesn't work, I'll try again and I'll definitely succeed));
   * I don't gossip.
 * Work experience:
-  * Calculate the sum of all even numbers occurring in the row from 1 to n (inclusive), passed to the function (variable "a"). Sample Input: 3
-    function testWhile(a) {
-        var x=0;
-        let b=0;
-        while (b<=a) {
-            if (b%2==0) {
-                x=x+b;
-            }
-        b=b+1;
-        }
-        return x;
-    }
+  * I have never worked in the field of information technology, but I was fond of web page layout. I am an energy engineer by training. At the moment, I work as a foreman in a small production boiler room (January 2017 to the moment). 7 people work under my leadership.
 ## Skills:
   * HTML5;
   * CSS3 (SASS/SCSS);
@@ -38,3 +27,23 @@
   * BEM;
   * Git, Github;
   * Development tool: VS-code, Figma, Photoshop.
+  ## Code example:
+  * Calculate the sum of all even numbers occurring in the row from 1 to n (inclusive), passed to the function (variable "a"). Sample Input: 3
+        function testWhile(a) {
+            var x=0;
+            let b=0;
+            while (b<=a) {
+                if (b%2==0) {
+                    x=x+b;
+                }
+            b=b+1;
+            }
+            return x;
+        }
+## Experience in it:
+  * RS School education and own small projects.
+## Education:
+  * 2008-2012 - Borisov Polytechnic College;
+  * 2017-2021-Belarusian National Technical University.
+## English language:
+  * А2 (Pre-Intermediate).

@@ -1,1 +1,1 @@
-https://Artur-Checha.github.io/rsschool-cv/cv
+https://artur-checha.github.io/rsschool-cv/cv
